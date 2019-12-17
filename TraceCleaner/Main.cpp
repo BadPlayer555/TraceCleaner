@@ -7,7 +7,7 @@ extern "C" NTSTATUS DriverEntry(
 	// These are invalid for mapped drivers.
 	UNREFERENCED_PARAMETER(driver_object);
 	UNREFERENCED_PARAMETER(registry_path);
-	UNICODE_STRING driver_name = RTL_CONSTANT_STRING(L"Capcom.sys");//Capcom.sys 0x57cd1415
+	UNICODE_STRING driver_name = RTL_CONSTANT_STRING(L"Capcom.sys");//Capcom.sys 0x57cd1415 (timeDateStamp)
 	log("Hello from Kernel Mode");
 	clear::clearCache(driver_name, 0x57cd1415);
 	FindMmDriverData();
