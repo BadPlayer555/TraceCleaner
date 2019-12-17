@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraceCleaner", "TraceCleaner\TraceCleaner.vcxproj", "{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM.Build.0 = Debug|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM64.Build.0 = Debug|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x64.ActiveCfg = Debug|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x64.Build.0 = Debug|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x64.Deploy.0 = Debug|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x86.Build.0 = Debug|Win32
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Debug|x86.Deploy.0 = Debug|Win32
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM.ActiveCfg = Release|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM.Build.0 = Release|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM.Deploy.0 = Release|ARM
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM64.ActiveCfg = Release|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM64.Build.0 = Release|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|ARM64.Deploy.0 = Release|ARM64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x64.ActiveCfg = Release|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x64.Build.0 = Release|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x64.Deploy.0 = Release|x64
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x86.ActiveCfg = Release|Win32
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x86.Build.0 = Release|Win32
+		{BACA280A-599C-48DA-8F0B-7BC95BD91EEA}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCF94E0-6F36-45D3-95F4-99292F073331}
+	EndGlobalSection
+EndGlobal
